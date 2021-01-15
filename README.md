@@ -14,7 +14,7 @@
 
 ### Objective
 
-- You objective is to call an API that returns a list of pokemon. You will display the pokemon to the screen. You will provide a few search functionalities for filtering the display of pokemon. You may use class components or react hooks, your preference. Below are instructions:
+- Your objective is to call an API that returns a list of pokemon. You will display the pokemon to the screen. You will provide a few search functionalities for filtering the display of pokemon. You may use class components or react hooks, your preference. Below are instructions:
 
 ### Instructions
 
